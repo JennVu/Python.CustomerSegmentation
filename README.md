@@ -1,4 +1,4 @@
-# Python.CustomerSementation
+# Python.CustomerSegmentation
 
 Customer Segmentation using RFM Model - Python Project
 Problem:
