@@ -1,5 +1,5 @@
 # Python.CustomerSegmentation
-
+Read me code here: https://colab.research.google.com/drive/1Kv1GAUnMLV8nezLTe4W3AbjjYY-NIDSx#scrollTo=HN1w2kfvn5DA
 Customer Segmentation using RFM Model - Python Project
 Problem:
 The objective of this project is to perform customer segmentation based on the RFM (Recency - Frequency - Monetary) model. Customer segmentation allows businesses, in this case, SuperStore Company, to understand their customers better and tailor marketing campaigns and special care to each customer group, thereby increasing customer loyalty and revenue.
