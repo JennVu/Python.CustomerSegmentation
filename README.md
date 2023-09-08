@@ -1,14 +1,14 @@
 # Python.CustomerSegmentation
-Read my code here: https://colab.research.google.com/drive/1Kv1GAUnMLV8nezLTe4W3AbjjYY-NIDSx#scrollTo=HN1w2kfvn5DA
+Read my code here: 
 
-Customer Segmentation using RFM Model - Python Project
-Problem:
+**Customer Segmentation using RFM Model - Python Project**
+**Problem:**
 The objective of this project is to perform customer segmentation based on the RFM (Recency - Frequency - Monetary) model. Customer segmentation allows businesses, in this case, SuperStore Company, to understand their customers better and tailor marketing campaigns and special care to each customer group, thereby increasing customer loyalty and revenue.
 
-Context:
+**Context:**
 SuperStore Company is a global retail company with a large customer base. To express gratitude to customers for their support during the past year and attract potential customers to become loyal patrons, the Marketing Department plans to run marketing campaigns during Christmas and New Year. However, due to the large dataset, manual segmentation is not feasible anymore. Thus, the Data Analysis Department has been requested to implement a classification system to segment customers based on the RFM model using Python programming.
 
-My Approach:
+**My Approach:**
 Prepare the Dataset: Obtain the dataset suitable for the RFM model. This dataset will contain customer transaction data, including the purchase dates and amounts for each customer.
 
 Calculate R, F, M Scores: Calculate the Recency, Frequency, and Monetary scores for each customer. The Recency score (R) will be calculated as of December 31, 2017, which is the reference date. The scores will be assigned using a scale of 1 to 5 based on the quintile method of Statistics.
@@ -21,13 +21,11 @@ Analysis and Recommendations: Analyze the current situation of the company based
 
 Retail Model Suggestions: Provide recommendations to the Marketing and Sales teams regarding which RFM index (Recency, Frequency, or Monetary) they should prioritize the most. This will help in focusing their efforts on the most critical aspect of customer segmentation.
 
-Project Deliverables:
-Python script to perform the RFM analysis and customer segmentation.
-Visualizations representing the customer segments.
-A report containing the analysis and recommendations for the Marketing team.
-Suggestions for prioritizing the RFM index for the retail model of SuperStore Company.
-Dataset:
-The dataset should include relevant customer transaction information, such as customer ID, purchase dates, and purchase amounts. Ensure that the dataset covers a sufficient period to calculate Recency accurately, and it should be up-to-date as of December 31, 2017.
+**Project Deliverables:**
+**I/ General information**
+Dataset includes 4 different related tables including: transaction information, products information, returned orders of customers purchasing products from 2014 to 2017 and RFM classification
+![image](https://github.com/JennVu/Python.CustomerSegmentation/assets/140695442/1de6f121-cd6b-4b88-952c-3ddec3400343)
+
 
 Technologies Used:
 Python programming language
