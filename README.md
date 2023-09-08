@@ -1,5 +1,5 @@
 # Python.CustomerSegmentation
-Read my code here: 
+Read my code here: https://colab.research.google.com/drive/1FbgaAECbObLFIB5iGo32A_9AvtCf3ogQ#scrollTo=2ed64ddd
 
 **Customer Segmentation using RFM Model - Python Project**
 **Problem:**
